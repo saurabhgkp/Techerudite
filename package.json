@@ -1,5 +1,5 @@
 {
-  "name": "node_express_sequelize_mysql_api",
+  "name": "techerudite_mysql_api",
   "version": "1.0.0",
   "description": "node express crud api with sequelize",
   "main": "server.js",
