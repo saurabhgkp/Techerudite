@@ -12,7 +12,7 @@ exports.mailerFun = async (email, fName, userId) => {
     secure: true,
     auth: {
       user: "ssgkp.singh@gmail.com",
-      pass: "eginujfbuwvgngjo",
+      pass: "#########",
     },
   });
   console.log(
@@ -41,7 +41,7 @@ exports.mailerFun = async (email, fName, userId) => {
           <hr style="border:none;border-top:1px solid #eee" />
           <div style="float:right;padding:8px 0;color:#aaa;font-size:0.8em;line-height:1;font-weight:300">
             
-          </div>
+          </div> 
         </div>
       </div>`, // html body
   });
