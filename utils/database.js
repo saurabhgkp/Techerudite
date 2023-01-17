@@ -1,12 +1,12 @@
 const Sequelize = require("sequelize");
 
 const sequelizeConnect = new Sequelize(
-    "sql6590547",
-    "sql6590547",
-    "GjSYB4ZH6g",
+    "db_name",
+    "db_usename",
+    "Password",
     {
         dialect: "mysql",
-        host: "sql6.freesqldatabase.com",
+        host: "sql6.fre******.com",
         // logging:false
     }
 );
